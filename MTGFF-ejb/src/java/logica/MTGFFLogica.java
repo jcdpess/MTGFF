@@ -68,6 +68,8 @@ public class MTGFFLogica {
 
             em.persist(unSet);
             System.out.println(unSet.getCode() + "-" + unSet.getName() + " ha sido agregado correctamente");
+            
+            //FADAAAAAAAAAA
 
 //            String author = (String) jsonObject.get("Author");
 //            JSONArray names = (JSONArray) jsonObject.get("names");
